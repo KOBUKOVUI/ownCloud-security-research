@@ -3,11 +3,14 @@
 CWE-307: Improper Restriction of Excessive Authentication Attempts
 Severity
 
-CVSS v3.1: 6.5 (Medium)
+CVSS v3.1: 8.1 (High)
 
-AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N
+CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N
 
 The score reflects the impact observed during testing of the affected authentication flow.
+
+## Affected Product: 
+Owncloud version 10.16.3
 
 ## Technical Description
 
