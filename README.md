@@ -1,4 +1,4 @@
-# ownCloud server lacks brute-force protection, enabling unlimited password guessing.
+# CVE-2026-84473: ownCloud server lacks brute-force protection, enabling unlimited password guessing.
 ## Vulnerability Classification
 CWE-307: Improper Restriction of Excessive Authentication Attempts
 Severity
